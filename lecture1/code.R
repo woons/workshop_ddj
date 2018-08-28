@@ -6,7 +6,7 @@
 # iris 데이터셋의 변형에 따른 열은 어떻게 달라졌나요?
 str(iris)
 str(iris.wide)
-str(iris.tidy)ㄴ
+str(iris.tidy)
 
 
 # Rplot.jpg와 같은 차트를 만드려면 어떤 데이터를 써서 만들어야할까요?
